@@ -7,7 +7,7 @@ BOOKMARKS_FILE = "bookmarkLinks.txt"
 chime.theme('pokemon')
 
 # =============================
-# New Feature: Remove bookmarks for all links (Improved Stability)
+# New Feature: Remove bookmarks for all links
 # =============================
 
 try:
